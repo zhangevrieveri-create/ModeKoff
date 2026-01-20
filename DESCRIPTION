@@ -1,4 +1,7 @@
-Package: ModeKoff
 Type: Package
 Title: MOI Screening and FDR control
 Version: 0.1.0
+Author: auto-generated
+Maintainer: xiongwei@uibe.edu.cn, m18384911737@163.com.
+Depends: R (>= 3.6)
+License: GPL-3
