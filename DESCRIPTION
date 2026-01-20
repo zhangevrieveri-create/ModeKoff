@@ -1,4 +1,4 @@
-Package: moiScreen
+Package: ModeKoff
 Type: Package
-Title: MOI Screening
+Title: MOI Screening and FDR control
 Version: 0.1.0
